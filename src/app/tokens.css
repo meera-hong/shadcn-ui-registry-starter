@@ -1,6 +1,6 @@
 :root {
-  --background: oklch(0.97 0.01 80.72);
-  --foreground: oklch(0.3 0.04 30.2);
+  --background: oklch(0 0 100);
+  --foreground: oklch(0 0 96);
 
   --card: oklch(0.97 0.01 80.72);
   --card-foreground: oklch(0.3 0.04 30.2);
@@ -8,8 +8,8 @@
   --popover: oklch(0.97 0.01 80.72);
   --popover-foreground: oklch(0.3 0.04 30.2);
 
-  --primary: oklch(0.52 0.13 144.17);
-  --primary-foreground: oklch(1.0 0 0);
+  --primary: oklch(263 100 56);
+  --primary-foreground: oklch(261 100 96);
 
   --secondary: oklch(0.96 0.02 147.64);
   --secondary-foreground: oklch(0.43 0.12 144.31);
