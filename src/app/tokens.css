@@ -8,39 +8,39 @@
   --popover: oklch(0.97 0.01 80.72);
   --popover-foreground: oklch(0.3 0.04 30.2);
 
-  --primary: oklch(0.52 0.13 144.17);
+  --primary: oklch(0.49 0.24 293); /*violet-700*/
   --primary-foreground: oklch(1.0 0 0);
 
-  --secondary: oklch(0.96 0.02 147.64);
-  --secondary-foreground: oklch(0.43 0.12 144.31);
+  --secondary: oklch(0.95 0.03 307); /*purple-100*/
+  --secondary-foreground: oklch(0.28 0.14 291); /*violet-950*/
 
   --muted: oklch(0.94 0.01 74.42);
   --muted-foreground: oklch(0.45 0.05 39.21);
 
-  --accent: oklch(0.9 0.05 146.04);
-  --accent-foreground: oklch(0.43 0.12 144.31);
+  --accent: oklch(0.83 0.11 306); /*purple-300*/
+  --accent-foreground: oklch(0.28 0.14 291); /*violet-950*/
 
-  --destructive: oklch(0.54 0.19 26.72);
+  --destructive: oklch(0.58 0.22 27); /*red-600*/
   --destructive-foreground: oklch(1.0 0 0);
 
-  --border: oklch(0.88 0.02 74.64);
-  --input: oklch(0.88 0.02 74.64);
-  --ring: oklch(0.52 0.13 144.17);
+  --border: oklch(0.87 0.00 0); /*neutral-300*/
+  --input: oklch(0.87 0.00 0); /*neutral-300*/
+  --ring: oklch(0.49 0.24 293); /*violet-700*/
 
-  --chart-1: oklch(0.67 0.16 144.21);
-  --chart-2: oklch(0.58 0.14 144.18);
-  --chart-3: oklch(0.52 0.13 144.17);
-  --chart-4: oklch(0.43 0.12 144.31);
-  --chart-5: oklch(0.22 0.05 145.73);
+  --chart-1: oklch(0.81 0.10 294)
+  --chart-2: oklch(0.61 0.22 293);
+  --chart-3: oklch(0.49 0.24 293); /*300, 500, violet-700, 900, 950*/
+  --chart-4: oklch(0.38 0.18 294);
+  --chart-5: oklch(0.28 0.14 291);
 
   --sidebar: oklch(0.94 0.01 74.42);
   --sidebar-foreground: oklch(0.3 0.04 30.2);
-  --sidebar-primary: oklch(0.52 0.13 144.17);
+  --sidebar-primary: oklch(0.49 0.24 293); /*violet-700*/
   --sidebar-primary-foreground: oklch(1.0 0 0);
-  --sidebar-accent: oklch(0.9 0.05 146.04);
-  --sidebar-accent-foreground: oklch(0.43 0.12 144.31);
-  --sidebar-border: oklch(0.88 0.02 74.64);
-  --sidebar-ring: oklch(0.52 0.13 144.17);
+  --sidebar-accent: oklch(0.83 0.11 306); /*purple-300*/
+  --sidebar-accent-foreground: oklch(0.28 0.14 291); /*violet-950*/
+  --sidebar-border: oklch(0.87 0.00 0); /*neutral-300*/
+  --sidebar-ring: oklch(0.49 0.24 293); /*violet-700*/
 
   --radius: 0.5rem;
 
